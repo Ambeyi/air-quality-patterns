@@ -1,0 +1,4 @@
+Verified 2026-10-31
+Six unit tests passed.
+Fictional demo completed successfully.
+Independent csv/statistics checks matched all 13 columns' missingness counts and rates, and every hourly/monthly count, mean and median.
